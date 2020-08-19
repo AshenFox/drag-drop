@@ -10,7 +10,6 @@
     "deploy": "gh-pages -d dist"
   },
   "keywords": [
-    "typescript",
     "course"
   ],
   "author": "Maximilian Schwarzmüller",
